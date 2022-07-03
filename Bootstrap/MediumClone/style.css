@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.bg-yellow {
+background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+
+.list-padding {
+    padding-left: 5px ;
+    padding-right: 5px;
+}
+

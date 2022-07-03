@@ -1,0 +1,19 @@
+/* styles */
+
+.border-bottom-line {
+    border-bottom: 1px gray;
+}
+
+.border-radius {
+    border-radius: 10px;
+}
+
+.bg-search {
+    background-color:#F1EEE9
+}
+
+.bg-nav {
+    background-color: white;
+}
+
+
