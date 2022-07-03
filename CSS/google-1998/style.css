@@ -1,0 +1,23 @@
+/******** Styles *******/
+
+.text-center {
+    text-align: center;
+}
+
+.table-style {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.font-size-lower {
+    font-size:-2;
+}
+
+.signature {
+    font-size: smaller;
+    border: 0;
+    text-align: right;
+}
